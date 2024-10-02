@@ -1,6 +1,6 @@
 
 
-# <p align="center"> ELK-pipeline
+# <p align="center"> ELK-Pipeline
 
 ### ELK Stack을 활용하여 데이터 시각화하기
 
